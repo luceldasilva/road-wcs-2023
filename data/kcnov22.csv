@@ -1,0 +1,412 @@
+"id","usuario","deck","skill","ndmax","zerotg","zephra","bryan","xenoblur"
+1,"0953","Code Talker","Codificador Hablador Vivo","2022-11-08",True,False,False,False
+2,"6256","Railway","Tren Imparable","2022-11-08",True,False,False,False
+3,"6100","Salamangreat","Vinculaciones","2022-11-08",True,False,False,False
+5,"6657","Mekk-Knights","Mecanismos Antigüos","2022-11-08",True,False,False,False
+7,"9963","Wounded Heros","Héroe Herido","2022-11-08",False,True,False,False
+8,"2707","Fish Shark","El alzamiento de Shark","2022-11-08",False,True,False,False
+38,"7322","Railway","Tren Imparable","2022-11-10",True,True,False,True
+6,"9851","Mekk-Knights","Mecanismos Antigüos","2022-11-08",True,True,False,False
+52,"9857","Code Talker","Codificador Hablador Vivo","2022-11-10",False,True,False,True
+4,"9310","Burning Abyss","Mente de la Plana","2022-11-08",True,True,True,True
+10,"3107","Mekk-Knights","Mecanismos Antigüos","2022-11-09",True,False,False,False
+13,"1463","Mekk-Knights","Mecanismos Antigüos","2022-11-09",True,False,False,False
+15,"0461","Salamangreat","Vinculaciones","2022-11-09",True,False,False,False
+19,"3427","Railway","Tren Imparable","2022-11-09",True,False,False,False
+9,"9881","Mekk-Knights","Mecanismos Antigüos","2022-11-09",True,True,False,False
+14,"4306","Code Talker","Codificador Hablador Vivo","2022-11-09",True,True,False,False
+16,"2328","Blackwings","Viento Negro hasta la Cima","2022-11-09",True,True,False,False
+17,"3248","Mermail Atlantean","Territorio de Tiburones","2022-11-09",True,True,False,False
+21,"0196","Infernoid","Con Valor","2022-11-09",False,True,False,False
+22,"6412","Wounded Heros","Héroe Herido","2022-11-09",False,True,False,False
+24,"6080","Salamangreat","Vinculaciones","2022-11-09",False,True,False,False
+25,"1225","War Rock","Oleada de Iluminación","2022-11-09",False,True,False,False
+26,"7382","Infernoid","Con Valor","2022-11-09",False,True,False,False
+23,"6077","Odd-Eyes","Xiangke y Xiangsheng","2022-11-09",False,True,True,False
+18,"2250","Odd-Eyes","Xiangke y Xiangsheng","2022-11-09",True,False,True,False
+27,"3494","Salamangreat","Vinculaciones","2022-11-09",False,False,True,False
+28,"3379","Mekk-Knights","Mecanismos Antigüos","2022-11-09",False,False,True,False
+29,"3842","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-09",False,False,True,False
+11,"9651","Rose Dragon","Conjuro de Rosas","2022-11-09",True,True,True,True
+12,"4536","Wounded Heros","Maestro de Fusión","2022-11-09",True,False,False,True
+20,"8246","Mermail Atlantean","Territorio de Tiburones","2022-11-09",True,False,False,True
+30,"9467","Mekk-Knights","Mecanismos Antigüos","2022-11-10",True,False,False,False
+31,"8799","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-10",True,False,False,False
+32,"0955","Dark Magician","Robo del Destino","2022-11-10",True,False,False,False
+34,"0410","Salamangreat","Vinculaciones","2022-11-10",True,False,False,False
+36,"5790","Railway","Tren Imparable","2022-11-10",True,False,False,False
+37,"1426","Railway","Tren Imparable","2022-11-10",True,False,True,True
+41,"6913","Synchrons","Camino de la Estrella Fugaz","2022-11-10",True,False,False,False
+45,"8075","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-10",True,False,False,False
+46,"3152","Mermail Atlantean","Territorio de Tiburones","2022-11-10",True,False,False,False
+35,"4967","Six Samurais","Vinculaciones","2022-11-10",True,True,False,False
+78,"1387","Gimmick Puppet","Marioneta Renunciada","2022-11-11",False,True,True,False
+39,"7146","Code Talker","Codificador Hablador Vivo","2022-11-10",True,True,False,False
+48,"0238","Salamangreat","Vinculaciones","2022-11-10",False,True,False,False
+49,"5020","Abyss Actor","Tumbas Selladas","2022-11-10",False,True,False,False
+50,"7954","Burning Abyss Infernoid","Mente de la Plana","2022-11-10",False,True,False,False
+51,"3589","Mermail Atlantean","Territorio de Tiburones","2022-11-10",False,True,False,False
+53,"7964","Abyss Actor","Tumbas Selladas","2022-11-10",False,True,False,False
+54,"9383","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-10",False,True,False,False
+55,"3625","Necroz","Maestro de Rituales","2022-11-10",False,True,False,False
+47,"6325","Evil Eye","Afinación de Nivel","2022-11-10",False,True,True,False
+70,"8188","Salamangreat Mekk-Knights","Mecanismos Antigüos","2022-11-11",True,True,True,True
+42,"2532","Ice Barrier","Territorio de Tiburones","2022-11-10",True,False,True,False
+43,"3621","Mermail Atlantean","Territorio de Tiburones","2022-11-10",True,True,True,False
+44,"6072","Wounded Heros","Maestro de Fusión","2022-11-10",True,False,True,False
+57,"8294","Galaxy-Eyes","Galaxia XYZ","2022-11-10",False,False,True,False
+58,"3359","Odd-Eyes","Xiangke y Xiangsheng","2022-11-10",False,False,True,False
+59,"6304","Mekk-Knights","Mecanismos Antigüos","2022-11-10",False,False,True,False
+60,"3207","Necroz","Maestro de Rituales","2022-11-10",False,False,True,False
+61,"0543","Mermail Atlantean","Territorio de Tiburones","2022-11-10",False,False,True,False
+62,"6250","Yosenjus","Aumento de LP alfa","2022-11-10",False,False,True,False
+56,"1458","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-10",False,False,True,True
+33,"3324","Railway","Tren Imparable","2022-11-10",True,True,True,True
+68,"8056","Metalfoes","Barrera de Luz","2022-11-11",True,False,False,False
+69,"2383","Gouki","El Evento Principal Gouki","2022-11-11",True,False,False,False
+71,"1737","Code Talker","Codificador Hablador Vivo","2022-11-11",True,False,False,False
+73,"0555","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-11",True,False,False,False
+74,"0294","Mekk-Knights","Mecanismos Antigüos","2022-11-11",True,False,False,False
+75,"8838","Infernoid","Robo del Destino","2022-11-11",True,False,False,False
+76,"3137","SuperHeavy Samurai","Evolución del Estilo","2022-11-11",True,False,False,False
+77,"7023","Mekk-Knights","Mecanismos Antigüos","2022-11-11",True,False,False,False
+65,"8171","Red-Eyes","Ruleta de Ojos Rojos","2022-11-11",True,False,True,True
+66,"1174","Mekk-Knights","Mecanismos Antigüos","2022-11-10",True,True,False,False
+67,"1728","Metalfoes","Barrera de Luz","2022-11-11",True,True,False,False
+64,"6910","Stromberg","Robo del Destino","2022-11-11",True,True,False,False
+90,"1859","Mermail Atlantean","Territorio de Tiburones","2022-11-11",False,False,True,True
+63,"9167","Fish Shark","El alzamiento de Shark","2022-11-11",True,True,False,True
+79,"4680","Galaxy-Eyes","Galaxia XYZ","2022-11-11",False,True,False,False
+80,"5887","Gimmick Puppet","Marioneta Renunciada","2022-11-11",False,True,False,False
+81,"6994","Railway","Tren Imparable","2022-11-11",False,True,False,False
+82,"7024","Salamangreat Mekk-Knights","Mecanismos Antigüos","2022-11-11",False,True,False,False
+85,"9119","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-11",False,True,False,False
+86,"3400","Railway","Tren Imparable","2022-11-11",False,True,False,False
+1914,"3177","Phantom Knights","La Orden de los Caballeros Fantasma","2022-11-17",True,False,False,False
+83,"8510","Odd-Eyes","Xiangke y Xiangsheng","2022-11-11",False,True,True,False
+72,"4491","Meklord","Refinamiento Meklord","2022-11-11",True,True,True,True
+1915,"6858","Fish Shark","El alzamiento de Shark","2022-11-17",True,False,False,False
+87,"7709","Wounded Heros","Maestro de Fusión","2022-11-11",False,False,True,False
+88,"8751","Galaxy-Eyes","Galaxia XYZ","2022-11-11",False,False,True,False
+89,"8444","Burning Abyss","Mente de la Plana","2022-11-11",False,False,True,False
+91,"7429","D/D/D","El Mando del Rey de la Perdición","2022-11-11",False,False,True,False
+92,"3261","Dark Magician","Robo del Destino","2022-11-11",False,False,True,False
+84,"6558","Abyss Actor","Mundo Sonriente","2022-11-11",False,True,True,True
+93,"4482","Qliphort","Robar sentido Nivel alto","2022-11-11",False,False,False,True
+1916,"6308","Code Talker","Codificador Hablador Vivo","2022-11-17",True,False,False,False
+1917,"9830","Railway","Tren Imparable","2022-11-17",True,False,False,False
+1918,"3764","Salamangreat","Vinculaciones","2022-11-17",True,False,False,False
+148,"2941","Melodious","de Cantante a Maestra","2022-11-13",True,True,True,True
+131,"5335","Blackwings","Viento Negro hasta la Cima","2022-11-12",True,False,True,True
+159,"5209","Infernoid","Robo de Magia Trampa","2022-11-12",False,True,False,False
+1919,"6940","Magnet Warrios","Robo del Destino","2022-11-17",True,False,False,False
+1920,"1762","Abyss Actor","Tumbas Selladas","2022-11-17",True,False,False,False
+1921,"9117","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-17",True,False,False,False
+1922,"2193","Necroz","Robar sentido Luz","2022-11-17",True,False,False,False
+1924,"6087","Necroz","Robar sentido Luz","2022-11-17",True,False,False,False
+1926,"7855","Satellarknights","Robo de Magia Trampa","2022-11-17",True,False,False,False
+1927,"3239","D/D/D","El Mando del Rey de la Perdición","2022-11-17",True,False,False,False
+1928,"1290","Destiny Heros","Reloj del Destino","2022-11-17",True,False,False,False
+1929,"6584","Odd-Eyes","Xiangke y Xiangsheng","2022-11-17",True,True,True,True
+1930,"7281","Mermail Atlantean","Territorio de Tiburones","2022-11-17",True,True,True,True
+1931,"3441","Railway","Tren Imparable","2022-11-17",True,True,True,True
+1925,"1137","Code Talker","Codificador Hablador Vivo","2022-11-17",True,True,False,False
+1936,"2578","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-17",False,True,False,True
+1933,"3911","Gandora","Luchar con Decisión","2022-11-17",False,True,False,False
+1934,"6453","Blackwings","Viento Negro hasta la Cima","2022-11-17",False,True,False,False
+1935,"8707","D/D/D","El Mando del Rey de la Perdición","2022-11-17",False,True,False,False
+1937,"4456","Galaxy-Eyes","Galaxia XYZ","2022-11-17",False,True,False,False
+1938,"3560","Mermail Atlantean","Territorio de Tiburones","2022-11-17",False,True,False,False
+126,"7424","Mekk-Knights","Mecanismos Antigüos","2022-11-12",True,False,False,False
+127,"7617","Code Talker","Codificador Hablador Vivo","2022-11-12",True,False,False,False
+129,"5281","Gimmick Puppet","Marioneta Renunciada","2022-11-12",True,False,False,False
+130,"7874","Meklord","Refinamiento Meklord","2022-11-12",True,False,False,False
+132,"5498","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-12",True,False,False,False
+133,"7677","Krawler","Infestación de Parásitos","2022-11-12",True,False,False,False
+134,"8214","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-12",True,False,False,False
+135,"8190","Railway","Tren Imparable","2022-11-12",True,False,False,False
+136,"3975","Infernity","Fantasma Hueco","2022-11-13",True,False,False,False
+137,"8878","Railway","Tren Imparable","2022-11-13",True,False,False,False
+138,"7277","Odd-Eyes","Xiangke y Xiangsheng","2022-11-13",True,False,False,False
+139,"5427","Burning Abyss","Mente de la Plana","2022-11-13",True,False,False,False
+140,"2711","Salamangreat Mekk-Knights","Mecanismos Antigüos","2022-11-13",True,False,False,False
+141,"8822","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",True,False,False,False
+144,"3086","Galaxy-Eyes","Galaxia XYZ","2022-11-13",True,False,False,False
+146,"2386","Fish Shark","El alzamiento de Shark","2022-11-13",True,False,False,False
+147,"9038","Code Talker","Codificador Hablador Vivo","2022-11-13",True,False,False,False
+149,"0917","Infernoid","Con Valor","2022-11-13",True,False,False,False
+151,"2968","Salamangreat","Vinculaciones","2022-11-13",True,False,False,False
+153,"5189","Salamangreat","Vinculaciones","2022-11-13",True,False,False,False
+154,"5101","Resonators","Resonancia Demoníaca","2022-11-13",True,False,False,False
+155,"1010","Odd-Eyes","Xiangke y Xiangsheng","2022-11-13",True,False,False,False
+156,"3355","Wounded Heros","Hora de una Fusión","2022-11-13",True,False,False,False
+40,"0272","D/D/D","El Mando del Rey de la Perdición","2022-11-10",True,True,True,False
+128,"0517","Railway","Tren Imparable","2022-11-12",True,True,False,False
+142,"2127","Railway","Tren Imparable","2022-11-13",True,True,False,False
+150,"0002","Cyber Angels","Maestro de Rituales II","2022-11-13",True,True,False,False
+1932,"3913","Phantom Knights","Estrategia Fantasma","2022-11-17",True,True,True,True
+152,"5593","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",True,True,True,False
+1913,"0889","Gimmick Puppet","Marioneta Renunciada","2022-11-17",True,True,False,True
+157,"6199","War Rock","Equilibrio","2022-11-12",False,True,False,False
+160,"4238","Odd-Eyes","Xiangke y Xiangsheng","2022-11-12",False,True,False,False
+161,"3756","Yosenjus","Robo del Destino","2022-11-12",False,True,False,False
+162,"7906","Mermail Atlantean","Territorio de Tiburones","2022-11-12",False,True,False,False
+163,"6437","Salamangreat Mekk-Knights","Mecanismos Antigüos","2022-11-12",False,True,False,False
+165,"4022","D/D/D","El Mando del Rey de la Perdición","2022-11-13",False,True,False,False
+166,"5421","Phantom Knights","Estrategia Fantasma","2022-11-13",False,True,False,False
+167,"7556","Paleozoic","Territorio de Tiburones","2022-11-13",False,True,False,False
+168,"4986","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",False,True,False,False
+169,"0770","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",False,True,False,False
+171,"3087","Rose Dragon","Conjuro de Rosas","2022-11-13",False,True,False,False
+172,"1756","Synchrons","Camino de la Estrella Fugaz","2022-11-13",False,True,False,False
+173,"1012","Rose Dragon","Conjuro de Rosas","2022-11-13",False,True,False,False
+174,"1379","Odd-Eyes","Xiangke y Xiangsheng","2022-11-13",False,True,False,False
+175,"1835","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",False,True,False,False
+158,"2719","World Chalice","Acceso Tormenta","2022-11-12",False,True,True,False
+1923,"7543","Salamangreat","Habilidad no asignada","2022-11-17",True,False,True,True
+164,"1093","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",False,True,True,False
+145,"5485","Lunalight","Robo del Destino","2022-11-13",True,False,True,False
+143,"5294","Galaxy-Eyes","Galaxia XYZ","2022-11-13",True,False,True,False
+176,"3392","Mermail Atlantean","Territorio de Tiburones","2022-11-12",False,False,True,False
+177,"5598","Blackwings","Viento Negro hasta la Cima","2022-11-12",False,False,True,False
+178,"0427","Lunalight","Robo del Destino","2022-11-12",False,False,True,False
+179,"3389","Kaiju","ADN de Dinosaurio","2022-11-12",False,False,True,False
+180,"3654","Dark Magician","As en la Manga","2022-11-12",False,False,True,False
+181,"8820","Salamangreat","Aumento de LP alfa","2022-11-12",False,False,True,False
+182,"8449","Phantom Knights","Estrategia Fantasma","2022-11-12",False,False,True,False
+183,"7933","World Chalice","Acceso Tormenta","2022-11-12",False,False,True,False
+184,"2789","Water XYZ","Territorio de Tiburones","2022-11-12",False,False,True,False
+185,"7116","Gouki","El Evento Principal Gouki","2022-11-13",False,False,True,False
+186,"9186","D/D/D","El Mando del Rey de la Perdición","2022-11-13",False,False,True,False
+187,"5284","Railway","Tren Imparable","2022-11-13",False,False,True,False
+188,"5978","Galaxy-Eyes","Galaxia XYZ","2022-11-13",False,False,True,False
+189,"2431","Salamangreat","Vinculaciones","2022-11-13",False,False,True,False
+190,"4887","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-13",False,False,True,False
+191,"3957","Blackwings","Viento Negro hasta la Cima","2022-11-13",False,False,True,False
+192,"9657","Infernoid","Con Valor","2022-11-13",False,False,True,False
+193,"6346","Dark Magician","Robo del Destino","2022-11-13",False,False,True,False
+194,"0798","Salamangreat","Vinculaciones","2022-11-13",False,False,True,False
+195,"9785","War Rock","Equilibrio","2022-11-13",False,False,True,False
+170,"0771","Metalfoes","Barrera de Luz","2022-11-13",False,True,False,True
+196,"6036","Six Samurais","Vinculaciones","2022-11-12",False,False,False,True
+197,"0421","Cipher","Listo para Perder?","2022-11-13",False,False,False,True
+198,"7710","Wounded Heros","Vinculaciones","2022-11-13",False,False,False,True
+199,"4974","Mermail Atlantean","Territorio de Tiburones","2022-11-13",False,False,False,True
+1940,"9101","Odd-Eyes","Xiangke y Xiangsheng","2022-11-17",False,True,False,False
+1939,"5411","Railway","Tren Imparable","2022-11-17",False,True,True,False
+1941,"6622","World Chalice","Acceso Tormenta","2022-11-17",False,False,True,False
+1942,"3329","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-17",False,False,True,False
+1943,"8829","Salamangreat","Vinculaciones","2022-11-17",False,False,True,False
+1944,"3111","Dark Magician","Robo del Destino","2022-11-17",False,False,True,False
+1946,"2424","Galaxy-Eyes","Galaxia XYZ","2022-11-17",False,False,True,False
+1945,"1809","Dragunity","Habilidad no asignada","2022-11-17",False,False,True,True
+1947,"3073","Block Dragon","Guerreros Fósiles","2022-11-17",False,False,False,True
+1948,"1044","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-17",False,False,False,True
+1949,"8405","Meklord","Refinamiento Meklord","2022-11-17",False,False,False,True
+1950,"8923","Resonators","Resonancia Demoníaca","2022-11-17",False,False,False,True
+1951,"5276","Infernity","Infierno Inférnico","2022-11-17",False,False,False,True
+1974,"4758","Gouki","El Evento Principal Gouki","2022-11-19",True,False,False,False
+1975,"8201","Mermail Atlantean","Territorio de Tiburones","2022-11-19",True,False,False,False
+1976,"7773","Mermail Atlantean","Territorio de Tiburones","2022-11-19",True,False,False,False
+1977,"2423","Railway","Fuera de Control","2022-11-19",True,False,False,False
+1978,"2727","Salamangreat","Vinculaciones","2022-11-19",True,False,False,False
+1979,"8774","Railway","Tren Imparable","2022-11-19",True,False,False,False
+1973,"4480","Railway","Tren Imparable","2022-11-19",True,True,False,False
+2008,"2603","Salamangreat","Reencarnación Salamangrande","2022-11-20",True,False,False,False
+2009,"3259","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-20",True,False,False,False
+2010,"0311","Mekk-Knights","Mecanismos Antigüos","2022-11-20",True,False,False,False
+2011,"3262","Blackwings","Viento Negro hasta la Cima","2022-11-20",True,False,False,False
+2012,"5877","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-20",True,False,False,False
+2013,"5817","Satellarknights","ZEXAL Arma Zexal","2022-11-20",True,False,False,False
+2014,"9029","Mayosenju","La Impactante actuación de Sylvio","2022-11-20",True,False,False,False
+2015,"4820","Dinomist","Pasa a la acción Invocación por Péndulo","2022-11-20",False,True,False,False
+2016,"0731","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-20",False,True,False,False
+2017,"9255","Infernity","Fantasma Hueco","2022-11-20",False,True,False,False
+2018,"8981","Burning Abyss","Mente de la Plana","2022-11-20",False,True,False,False
+2019,"0785","Fish Armor","Gemelos Unidos","2022-11-20",False,True,False,False
+2020,"9765","Evil Eye","Combustible de Duelo","2022-11-20",False,True,False,False
+2021,"4434","Railway","Tren Imparable","2022-11-20",False,True,True,False
+2022,"9583","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-20",False,False,True,False
+2023,"1543","Gouki","El Evento Principal Gouki","2022-11-20",False,False,True,False
+2024,"2244","Ice Barrier","Robar sentido Nivel bajo","2022-11-20",False,False,True,False
+2025,"6723","D/D/D","El Mando del Rey de la Perdición","2022-11-20",False,False,False,True
+1794,"6439","Mermail Atlantean","Territorio de Tiburones","2022-11-15",True,True,False,False
+1953,"2401","Blue-Eyes","Dragones Definitivos","2022-11-18",True,False,False,False
+1954,"2945","Infernoid","Con Valor","2022-11-18",True,False,False,False
+1956,"7047","Harpies","Robo del Destino","2022-11-18",True,False,False,False
+1964,"5353","Code Talker","Codificador Hablador Vivo","2022-11-18",False,False,True,False
+1958,"0254","Mekk-Knights","Mecanismos Antigüos","2022-11-18",True,True,False,False
+1959,"2239","Dark Magician","Robo del Destino","2022-11-18",False,True,False,False
+1960,"4067","Ice Barrier","Territorio de Tiburones","2022-11-18",False,True,False,False
+1961,"7407","Code Talker","Codificador Hablador Vivo","2022-11-18",False,True,False,False
+1962,"1427","Railway","Tren Imparable","2022-11-18",False,True,False,False
+1963,"0982","Six Samurais","Vinculaciones","2022-11-18",False,True,False,False
+1842,"2475","Odd-Eyes","Xiangke y Xiangsheng","2022-11-15",False,True,True,False
+1952,"7744","Dark Magician","Robo del Destino","2022-11-18",True,False,True,False
+1771,"9379","Red-Eyes","Ruleta de Ojos Rojos","2022-11-14",True,True,True,False
+1772,"8812","Code Talker","Codificador Hablador Vivo","2022-11-14",True,False,True,False
+1773,"8050","Railway","Tren Imparable","2022-11-14",True,False,True,False
+1774,"9212","Railway","Tren Imparable","2022-11-14",True,False,True,False
+1775,"2007","Fish Shark","El alzamiento de Shark","2022-11-14",True,False,False,False
+1776,"0349","Metaphys","Con Valor","2022-11-14",True,True,True,False
+1777,"1048","Burning Abyss Infernoid","Mente de la Plana","2022-11-14",True,True,False,True
+1778,"4001","Gouki","Acceso Tormenta","2022-11-14",True,False,False,False
+1779,"9761","Salamangreat","Vinculaciones","2022-11-14",True,False,False,False
+1780,"0487","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",True,True,True,False
+1781,"3717","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",True,False,False,False
+1782,"1188","Fish Armor","Gemelos Unidos","2022-11-14",True,True,False,False
+1783,"3401","Crystrons","Barrera de Luz","2022-11-14",True,True,False,False
+1784,"0178","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",True,False,False,False
+1785,"9451","Fish Shark","El alzamiento de Shark","2022-11-14",True,False,False,False
+1786,"7899","Satellarknights","Habilidad no asignada","2022-11-14",True,False,False,False
+1787,"3902","Buster Blader","Robar sentido Nivel bajo","2022-11-14",True,False,False,False
+1788,"9540","Railway","Tren Imparable","2022-11-14",True,True,True,False
+1789,"1831","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",True,False,False,False
+1790,"2356","Odd-Eyes","Xiangke y Xiangsheng","2022-11-14",True,True,False,False
+1791,"4774","Gouki","Calentamiento Extra","2022-11-14",True,False,False,True
+1792,"7579","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",True,False,False,False
+1793,"0869","Gimmick Puppet","Marioneta Renunciada","2022-11-14",True,False,False,False
+1795,"3447","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",True,False,False,False
+1796,"7624","Fish Shark","El alzamiento de Shark","2022-11-15",True,False,False,False
+1797,"3367","Triamids","Barrera de Luz","2022-11-15",True,True,False,False
+1798,"3882","Odd-Eyes","Xiangke y Xiangsheng","2022-11-15",True,False,False,False
+1799,"4194","Block Dragon","Robo de Magia Trampa","2022-11-15",True,False,True,False
+1800,"2807","Galaxy-Eyes","Galaxia XYZ","2022-11-15",True,False,False,False
+1801,"9337","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",True,False,False,False
+1802,"9361","Code Talker","Codificador Hablador Vivo","2022-11-15",True,False,False,False
+1803,"5747","Mekk-Knights","Mecanismos Antigüos","2022-11-15",True,False,False,False
+1804,"0148","Yosenjus","Robo del Destino","2022-11-15",True,False,False,False
+1805,"1411","Fire Fist","Paliza","2022-11-15",True,False,True,False
+1806,"5780","Mermail Atlantean","Territorio de Tiburones","2022-11-15",True,False,False,False
+1807,"5918","Valkyrie","Maestro de Rituales II","2022-11-15",True,False,False,False
+1808,"5462","Salamangreat","Vinculaciones","2022-11-15",True,True,False,False
+1809,"2566","Salamangreat","Vinculaciones","2022-11-15",True,False,False,False
+1810,"8364","Mermail Atlantean","Territorio de Tiburones","2022-11-15",True,True,False,False
+1811,"4058","Blue-Eyes","Dragones Definitivos","2022-11-15",True,False,False,False
+1812,"3836","Burning Abyss Phantom Knights","Mente de la Plana","2022-11-16",True,False,False,False
+1813,"1894","Phantom Knights","Estrategia Fantasma","2022-11-16",True,True,False,False
+1814,"5814","Rose Dragon","Conjuro de Rosas","2022-11-16",True,False,False,False
+1815,"5494","Dark Magician","Robo del Destino","2022-11-16",True,False,False,False
+1816,"1078","Dark Magician","As en la Manga","2022-11-16",True,False,True,False
+1817,"0885","Mermail Atlantean","Territorio de Tiburones","2022-11-16",True,False,False,False
+1818,"0306","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-16",True,False,True,False
+1819,"2805","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-16",True,False,False,False
+1820,"6152","Odd-Eyes","Xiangke y Xiangsheng","2022-11-16",True,False,False,False
+1821,"8123","Fluffal","Revelación del Castillo Supremo","2022-11-16",True,False,False,False
+1822,"0786","Infernity","Fantasma Hueco","2022-11-16",True,False,False,False
+1823,"8735","Yosenjus","Robo del Destino","2022-11-16",True,False,False,False
+1824,"2918","Infernoid","Compensación","2022-11-16",True,False,False,False
+1825,"0397","Mermail Atlantean","Territorio de Tiburones","2022-11-16",True,False,False,False
+1826,"2687","Synchrons","Camino de la Estrella Fugaz","2022-11-16",True,True,True,True
+1827,"7049","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-16",True,False,False,False
+1829,"1639","Rose Dragon","Conjuro de Rosas","2022-11-14",False,True,False,False
+1830,"8504","Fish Shark","El alzamiento de Shark","2022-11-14",False,True,False,False
+1831,"3859","Six Samurais","ZEXAL Evolución XYZ","2022-11-14",False,True,False,False
+1832,"0015","Railway","Tren Imparable","2022-11-14",False,True,False,False
+1833,"1277","Galaxy-Eyes","Galaxia XYZ","2022-11-14",False,True,False,False
+1834,"4601","D/D/D","El Mando del Rey de la Perdición","2022-11-14",False,True,False,False
+1835,"4618","Metalfoes","Cambio de Péndulo Básico","2022-11-14",False,True,True,False
+1836,"5592","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",False,True,False,False
+1837,"6989","Salamangreat","Vinculaciones","2022-11-14",False,True,False,False
+1838,"0928","D/D/D","El Mando del Rey de la Perdición","2022-11-14",False,True,False,False
+1839,"7629","Code Talker","Codificador Hablador Vivo","2022-11-14",False,True,False,False
+1840,"8304","Galaxy-Eyes","Galaxia XYZ","2022-11-14",False,True,False,False
+1841,"0419","Ultra Athletes","Robar sentido Nivel bajo","2022-11-15",False,True,True,False
+1843,"9826","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,True,False,False
+1844,"1702","Phantom Knights","La Orden de los Caballeros Fantasma","2022-11-15",False,True,False,False
+1845,"9922","Satellarknights","Robo del Destino","2022-11-15",False,True,False,True
+1846,"9428","Code Talker","Codificador Hablador Vivo","2022-11-15",False,True,False,False
+1847,"8468","Dark Magician","Robar sentido Oscuridad","2022-11-15",False,True,False,False
+1848,"0022","Meklord","Refinamiento Meklord","2022-11-15",False,True,False,False
+1849,"1981","Galaxy-Eyes","Galaxia XYZ","2022-11-15",False,True,False,False
+1850,"4698","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,True,False,False
+1957,"1553","Deskbots","Aumento de LP alfa","2022-11-18",True,True,True,False
+1965,"3967","Dark Magician","Robo del Destino","2022-11-18",False,False,True,False
+1966,"9878","Six Samurais","Paliza","2022-11-18",False,False,True,False
+1967,"8473","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-18",False,False,True,False
+1968,"2439","Railway","Tren Imparable","2022-11-18",False,False,True,False
+1969,"9990","Red-Eyes","Ruleta de Ojos Rojos","2022-11-18",False,False,True,False
+1828,"3672","Railway","Tren Imparable","2022-11-16",True,False,True,True
+1851,"7448","Fossil","Guerreros Fósiles","2022-11-15",False,True,True,False
+1852,"7178","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,True,False,False
+1853,"3680","World Chalice","Acceso Tormenta","2022-11-15",False,True,False,False
+1854,"5900","Abyss Actor","Tumbas Selladas","2022-11-15",False,True,False,False
+1855,"7396","Tech Genus","Control de Vuelo","2022-11-15",False,True,False,False
+1856,"1807","Necroz","Maestro de Rituales","2022-11-16",False,True,False,False
+1857,"0857","Railway","Tren Imparable","2022-11-16",False,True,False,False
+1858,"1769","Infernity","Fantasma Hueco","2022-11-16",False,True,False,False
+1859,"5236","Mekk-Knights","Robo del Destino","2022-11-16",False,True,False,False
+1860,"3466","Mermail Atlantean","Territorio de Tiburones","2022-11-16",False,True,False,False
+1861,"1441","Mermail Atlantean","Territorio de Tiburones","2022-11-16",False,True,True,False
+1862,"1900","Resonators","Resonancia Demoníaca","2022-11-16",False,True,False,False
+1863,"4548","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-16",False,True,False,False
+1864,"7681","Gouki","El Evento Principal Gouki","2022-11-16",False,True,False,False
+1865,"4254","Ice Barrier","Territorio de Tiburones","2022-11-16",False,True,False,False
+1866,"4811","Wounded Heros","Héroe Herido","2022-11-14",False,False,True,False
+1867,"6631","D/D/D","El Mando del Rey de la Perdición","2022-11-14",False,False,True,False
+1868,"3375","Galaxy-Eyes","Galaxia XYZ","2022-11-14",False,False,True,False
+1869,"5862","Tech Genus","Control de Vuelo","2022-11-14",False,False,True,False
+1870,"6218","Galaxy-Eyes","Galaxia XYZ","2022-11-14",False,False,True,False
+1871,"2097","Fossil","Agujero de Gólem","2022-11-14",False,False,True,False
+1872,"3895","Tech Genus","Control de Vuelo","2022-11-14",False,False,True,False
+1873,"7217","Resonators","Resonancia Demoníaca","2022-11-14",False,False,True,False
+1874,"6715","D/D/D","El Mando del Rey de la Perdición","2022-11-14",False,False,True,False
+1875,"7989","Salamangreat","Vinculaciones","2022-11-14",False,False,True,False
+1876,"4691","D/D/D","El Mando del Rey de la Perdición","2022-11-14",False,False,True,False
+1877,"1475","Mermail Atlantean","Territorio de Tiburones","2022-11-14",False,False,True,False
+1878,"8099","Railway","Tren Imparable","2022-11-14",False,False,True,False
+1879,"1126","Galaxy-Eyes","Galaxia XYZ","2022-11-14",False,False,True,False
+1880,"1755","Tech Genus","Control de Vuelo","2022-11-14",False,False,True,False
+1881,"8712","Odd-Eyes","Xiangke y Xiangsheng","2022-11-14",False,False,True,False
+1882,"0074","Infernoid","Aumento de LP alfa","2022-11-14",False,False,True,False
+1883,"9682","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,False,True,True
+1884,"5069","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,False,True,False
+1885,"2047","Dark Magician","Robar sentido Luz","2022-11-15",False,False,True,False
+1886,"8797","Wounded Heros","Héroe Herido","2022-11-15",False,False,True,False
+1887,"8371","Block Dragon","Vinculaciones","2022-11-15",False,False,True,False
+1888,"5124","Mayosenju","Neo Nuevo Sylvio","2022-11-15",False,False,True,False
+1889,"1307","Burning Abyss","Mente de la Plana","2022-11-15",False,False,True,False
+1890,"3383","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,False,True,False
+1891,"8459","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-15",False,False,True,True
+1892,"7784","Wounded Heros","Héroe Herido","2022-11-15",False,False,True,False
+1893,"5740","Salamangreat","Guerrero de la Esperanza Número 39","2022-11-15",False,False,True,False
+1894,"1948","Dark Magician","As en la Manga","2022-11-16",False,False,True,False
+1895,"2077","Resonators","Resonancia Demoníaca","2022-11-16",False,False,True,False
+1896,"4446","Mekk-Knights","Mecanismos Antigüos","2022-11-16",False,False,True,False
+1897,"2432","Phantom Knights","La Orden de los Caballeros Fantasma","2022-11-16",False,False,True,False
+1898,"3417","Magnet Warrios","Robo del Destino","2022-11-16",False,False,True,False
+1899,"4158","Gandora","Luchar con Decisión","2022-11-16",False,False,True,False
+1900,"3267","Yosenjus","Robo del Destino","2022-11-16",False,False,True,False
+1901,"8496","Wounded Heros","Héroe Herido","2022-11-16",False,False,True,False
+1902,"6504","Meklord","Refinamiento Meklord","2022-11-16",False,False,True,False
+1903,"1546","Rose Dragon Mekk-Knights","Conjuro de Rosas","2022-11-14",False,False,False,True
+1904,"3209","Elemental Heros","Alianza de Héroes","2022-11-14",False,False,False,True
+1905,"1705","Mekk-Knights","Mecanismos Antigüos","2022-11-14",False,False,False,True
+1906,"4556","Odd-Eyes","Xiangke y Xiangsheng","2022-11-14",False,False,False,True
+1907,"0840","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-14",False,False,False,True
+1908,"9861","Infernoid","Con Valor","2022-11-15",False,False,False,True
+1909,"5679","Blackwings","Viento Negro hasta la Cima","2022-11-15",False,False,False,True
+1910,"6149","D/D/D","El Mando del Rey de la Perdición","2022-11-15",False,False,False,True
+1911,"4893","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-16",False,False,False,True
+1912,"3110","Abyss Actor","Tumbas Selladas","2022-11-16",False,False,False,True
+1970,"0587","Gouki","El Evento Principal Gouki","2022-11-18",False,False,True,False
+1971,"6438","Yosenjus","Con Valor","2022-11-18",False,False,True,False
+1955,"3215","Elemental Heros","Alianza de Héroes","2022-11-18",True,False,False,True
+1991,"0344","D/D/D","El Mando del Rey de la Perdición","2022-11-20",False,True,False,False
+1992,"1209","Dark Magician","Robo del Destino","2022-11-19",False,True,False,False
+1994,"8650","Galaxy-Eyes","Galaxia XYZ","2022-11-19",False,True,False,False
+1995,"1082","Galaxy-Eyes","Galaxia XYZ","2022-11-19",False,True,False,False
+1996,"6107","Salamangreat","Vinculaciones","2022-11-19",False,True,False,False
+1997,"2194","Dark Magician","Robo del Destino","2022-11-19",False,True,False,False
+1998,"6617","Salamangreat","Alzarse desde el Valle de las Llamas","2022-11-19",False,True,False,False
+1999,"6757","Block Dragon","Vinculaciones","2022-11-19",False,True,False,False
+2000,"2166","Fortune Lady","Paso del Tiempo","2022-11-19",False,True,False,False
+2001,"3721","Dark Magician","Robo del Destino","2022-11-19",False,True,False,False
+2002,"5924","Fish Shark","El alzamiento de Shark","2022-11-19",False,True,False,False
+2003,"2284","Fish Shark","El alzamiento de Shark","2022-11-19",False,True,False,False
+1993,"1746","Stromberg","Robar sentido Viento","2022-11-19",False,True,True,False
+2004,"9726","Deskbots","Vinculaciones","2022-11-19",False,False,True,False
+2005,"4379","Dark Magician","Robo del Destino","2022-11-19",False,False,True,False
+2006,"8170","Salamangreat","Vinculaciones","2022-11-19",False,False,True,False
+2007,"2542","Wounded Heros","Héroe Herido","2022-11-19",False,False,True,False
+1972,"8090","Galaxy-Eyes","Fotónico de la Galaxia","2022-11-18",False,True,False,True

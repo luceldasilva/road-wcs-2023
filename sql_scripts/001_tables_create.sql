@@ -1,0 +1,70 @@
+SET CLIENT_ENCODING TO 'UTF8';
+
+DROP TABLE IF EXISTS kcsep22;
+
+CREATE TABLE kcsep22 (
+	id SERIAL PRIMARY KEY,
+	usuario VARCHAR(4) NOT NULL UNIQUE,
+	deck VARCHAR(100) NOT NULL,
+	skill VARCHAR(255) NOT NULL,
+	ndmax DATE NOT NULL,
+	zerotg BOOLEAN,
+	zephra BOOLEAN,
+	bryan BOOLEAN,
+	xenoblur boolean
+);
+
+DROP TABLE IF EXISTS kcnov22;
+
+CREATE TABLE kcnov22 (
+	id SERIAL PRIMARY KEY,
+	usuario VARCHAR(4) NOT NULL UNIQUE,
+	deck VARCHAR(100) NOT NULL,
+	skill VARCHAR(255) NOT NULL,
+	ndmax DATE NOT NULL,
+	zerotg BOOLEAN,
+	zephra BOOLEAN,
+	bryan BOOLEAN,
+	xenoblur boolean
+);
+
+DROP TABLE IF EXISTS kcfeb23;
+
+CREATE TABLE kcfeb23 (
+	id VARCHAR(255) PRIMARY KEY,
+	duelist VARCHAR(4) NOT NULL UNIQUE,
+	deck VARCHAR(100) NOT NULL,
+	skill VARCHAR(255) NOT NULL,
+	zerotg BOOLEAN,
+	zephra BOOLEAN,
+	bryan BOOLEAN,
+	ndmax DATE NOT NULL
+);
+
+DROP TABLE IF EXISTS kcapril23;
+
+CREATE TABLE kcapril23 (
+	usuario VARCHAR(4) NOT NULL UNIQUE,
+	deck VARCHAR(100) NOT NULL,
+	skill VARCHAR(255) NOT NULL,
+	ndmax DATE NOT NULL,
+	zerotg BOOLEAN,
+	zephra BOOLEAN,
+	bryan BOOLEAN,
+	xenoblur BOOLEAN,
+	yamiglen BOOLEAN
+);
+
+DROP TABLE IF EXISTS decks;
+
+CREATE TABLE decks (
+	deck VARCHAR(100) NOT NULL
+);
+
+DROP TABLE IF EXISTS skills;
+
+CREATE TABLE skills (
+	skill VARCHAR(255) NOT NULL
+);
+
+SET datestyle TO 'European';
