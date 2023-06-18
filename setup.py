@@ -1,6 +1,7 @@
 import logging
 from decouple import config
 from sqlalchemy import create_engine as ce, MetaData as md
+import pandas as pd
 
 
 logging.basicConfig(
@@ -20,13 +21,13 @@ def connection_psql():
 		cursor = connection.cursor()
 		cursor.execute("SELECT version()")
 		row = cursor.fetchone()
-		logging.info("Versión del servidor de PostgreSQL: {}".format(row))
+		logging.info(f'Versión del servidor de PostgreSQL: {row}')
 	except Exception as ex:
-		logging.error("Error durante la conexión: {}".format(ex))
+		logging.error(f'Error durante la conexión: {ex}')
 	else:
 		cursor.execute('SELECT current_database()')
 		database = cursor.fetchone()
-		logging.info("Base de Datos: {}".format(database))
+		logging.info(f'Base de Datos: {database}')
 
 
 def show_tables():
@@ -37,11 +38,20 @@ def show_tables():
 	for sheet in table_names:
 		logging.info(sheet.name)
 	conn.close()
-
-
-def turn_off_engine():
 	pg_engine.dispose()
 	logging.info("La conexión ha finalizado.")
+
+
+def query(query):
+	'''
+		hacer variable = query(y la consulta sql)
+	'''
+	try:
+		return pd.read_sql_query(sql=query, con=pg_engine)
+	except Exception as ex:
+		logging.error(f'Error durante la conexión: {ex}')
+	finally:
+		logging.info(f'Aquí está la consulta {query}')
 
 
 if __name__ == '__main__':
