@@ -1,5 +1,5 @@
 # Qualifiers WCS 2023: Road to World🏆
-Resumen de las Copas KC's correspondientes al camino al Mundial 2023 de Yu-Gi-Oh Duel Links!
+Resumen de las Copas KC's correspondientes a clasificatorias al Mundial 2023 de Yu-Gi-Oh Duel Links!
 
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) 
 
