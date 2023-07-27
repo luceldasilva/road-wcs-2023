@@ -5,7 +5,7 @@ Resumen de las Copas KC's correspondientes al camino al Mundial 2023 de Yu-Gi-Oh
 
 Puede encontrarlo también en [![Static Badge](https://img.shields.io/badge/build-Qualifiers_WCS_2023-brightgreen?logo=deepnote&label=KC%20CUP&color=%23AFEEEE)](https://deepnote.com/@luceldasilva/WCS-2023-Qualifiers-1st-Stage-Road-to-Worlds-Yu-Gi-Oh-Duel-Links-24b0dc8f-6b7d-40a4-9aa9-6a17cca1fb85)
 
-![](https://i.imgur.com/cTV8HEY.png)
+[![](https://i.imgur.com/cTV8HEY.png)](https://deepnote.com/@luceldasilva/WCS-2023-Qualifiers-1st-Stage-Road-to-Worlds-Yu-Gi-Oh-Duel-Links-24b0dc8f-6b7d-40a4-9aa9-6a17cca1fb85)
 
 Contiene mazos Nd. MAX del evento `Qualifiers WCS 2023` en YuGiOh! Duel Links además de realizar una comparación con las ediciones de las Copas KC anteriores💎
 
